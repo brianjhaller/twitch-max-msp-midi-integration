@@ -1,0 +1,4 @@
+{
+	"melody1" : [ "melodyStart", 60, 62, 54, 96, 47, 34, "melodyEnd" ],
+	"melody2" : [ "melodyStart", 70, 62, 54, 96, 47, 34, "melodyEnd" ]
+}
